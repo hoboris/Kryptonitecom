@@ -1,2 +1,2 @@
 # Kryptonite.com
-Crypto.com Android Recruitment Test
+Android Recruitment Test
